@@ -2,8 +2,11 @@
 ## ANN model for pedicting Chemical Compound Class
 ### Libraries Used
 NumPy
+
 MatplotLib
+
 TensorFlow
+
 ### Pre-processing
 The first three columns ID, molecule_name, conformation_name have been ignored as the information contained in the first column is only the index and the other two columns contain the name of the compound.
 
