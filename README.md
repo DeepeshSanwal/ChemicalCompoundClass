@@ -7,7 +7,7 @@ The data was split into training set and test set in the ratio 80:20.
 
 The StandardScaler from sklearn was used to scale the data.
 Variables that are measured at different scales do not contribute equally to the model fitting & model learned function and might end up creating a bias. Thus, to deal with this potential problem feature-wise standardized (μ=0, σ=1) is usually used prior to model fitting.
-### Performance
+### Current Performance Measures
 #### Precision:  0.99773
 #### Recall:        0.99772
 #### F-Score:     0.99772 
